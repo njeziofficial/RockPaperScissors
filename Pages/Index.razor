@@ -1,0 +1,41 @@
+﻿@page "/"
+@using System.Timers
+@implements IDisposable
+
+<h1>Rock, Paper and Scissors</h1>
+
+<button class="btn btn-info">Play Again</button>
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px">
+    <img src="paper.jpg" alt="paper"  class="image"/>
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="paper.jpg" class="image selectable-image" />
+    <img src="rock.jpg" class="image selectable-image" />
+    <img src="scissors.jpg" class="image selectable-image" />
+</div>
+
+@code
+{
+    Timer timer;
+    protected override void OnInitialized()
+    {
+        timer = new Timer {Interval = 200};
+        timer.Elapsed += TimerOnElapsed;
+        timer.Start();
+    }
+
+    void TimerOnElapsed(object sender, ElapsedEventArgs e)
+    {
+        Console.WriteLine("Executed");
+    }
+
+    public void Dispose() => timer?.Dispose();
+    //{
+    //    if (timer != null)
+    //    {
+    //        timer.Dispose();
+    //    }
+    //}
+}
