@@ -354,6 +354,6 @@ C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\staticw
 C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\staticwebassets\RockPaperScissors.StaticWebAssets.xml
 C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\RockPaperScissors.dll
 C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\RockPaperScissors.pdb
-C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\JjzIX_xQM8rj5pA5p877K4tys8XJmaUD9pLIXcN9OnM=.hash
-C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\gK9LSi3nTevzzS6wCPVWXNNBYbjxvEFg0lhUsiOVoYU=.hash
-C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\9aslReetUp7K2P-vYejDDU2WgqwQ4jhYnnBZt7Z9MSo=.hash
+C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\c-yOHxOE1gztSdcKvBpOVrLOfgklfL6SVzVTvKOhYlM=.hash
+C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\cfP2u9GxQp-1yaZVpOM7hDOdGNZcgtEWTZJjt6Am0XM=.hash
+C:\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\netstandard2.1\integrity\j33Fi62Fnnfyp0loM8sj7sqZ8VB7wnQ8bebEoD-zAZ0=.hash

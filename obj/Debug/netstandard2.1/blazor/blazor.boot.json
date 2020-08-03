@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "RockPaperScissors.dll": "sha256-JjzIX+xQM8rj5pA5p877K4tys8XJmaUD9pLIXcN9OnM=",
+      "RockPaperScissors.dll": "sha256-c\/yOHxOE1gztSdcKvBpOVrLOfgklfL6SVzVTvKOhYlM=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -60,7 +60,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "RockPaperScissors.pdb": "sha256-gK9LSi3nTevzzS6wCPVWXNNBYbjxvEFg0lhUsiOVoYU="
+      "RockPaperScissors.pdb": "sha256-cfP2u9GxQp\/1yaZVpOM7hDOdGNZcgtEWTZJjt6Am0XM="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

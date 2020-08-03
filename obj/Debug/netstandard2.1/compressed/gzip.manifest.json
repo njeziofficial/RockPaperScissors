@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\JjzIX_xQM8rj5pA5p877K4tys8XJmaUD9pLIXcN9OnM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\c-yOHxOE1gztSdcKvBpOVrLOfgklfL6SVzVTvKOhYlM=.hash",
       "Source": "C:\\Projects\\RockPaperScissors\\RockPaperScissors\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RockPaperScissors.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RockPaperScissors.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gK9LSi3nTevzzS6wCPVWXNNBYbjxvEFg0lhUsiOVoYU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cfP2u9GxQp-1yaZVpOM7hDOdGNZcgtEWTZJjt6Am0XM=.hash",
       "Source": "C:\\Projects\\RockPaperScissors\\RockPaperScissors\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\RockPaperScissors.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/RockPaperScissors.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9aslReetUp7K2P-vYejDDU2WgqwQ4jhYnnBZt7Z9MSo=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\j33Fi62Fnnfyp0loM8sj7sqZ8VB7wnQ8bebEoD-zAZ0=.hash",
       "Source": "C:\\Projects\\RockPaperScissors\\RockPaperScissors\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
